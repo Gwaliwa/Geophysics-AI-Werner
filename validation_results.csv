@@ -1,0 +1,4 @@
+dataset,mean_prospectivity,top20_coverage
+gold,0.8494075,0.9929980903882877
+resource,0.66648144,1.0
+reserve,0.77424276,1.0
